@@ -648,4 +648,13 @@
   <data name="zap" xml:space="preserve">
     <value>M640 448H384L576 0 0 576h256L64 1024 640 448z</value>
   </data>
+  <data name="arrow_left_bold_circle" xml:space="preserve">
+    <value>M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M7,12L12,17V14H16V10H12V7L7,12Z</value>
+  </data>
+  <data name="arrow_right_bold_circle" xml:space="preserve">
+    <value>M2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12M17,12L12,7V10H8V14H12V17L17,12Z</value>
+  </data>
+  <data name="refresh" xml:space="preserve">
+    <value>M19,12H22.32L17.37,16.95L12.42,12H16.97C17,10.46 16.42,8.93 15.24,7.75C12.9,5.41 9.1,5.41 6.76,7.75C4.42,10.09 4.42,13.9 6.76,16.24C8.6,18.08 11.36,18.47 13.58,17.41L15.05,18.88C12,20.69 8,20.29 5.34,17.65C2.22,14.53 2.23,9.47 5.35,6.35C8.5,3.22 13.53,3.21 16.66,6.34C18.22,7.9 19,9.95 19,12Z</value>
+  </data>
 </root>
